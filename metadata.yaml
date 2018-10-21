@@ -1,5 +1,5 @@
 _repo: King-John_1775
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcsh 'Great Britain -- History -- John, 1199-1216 -- Drama'
 - !lcc 'PR'
 - !lcsh 'John, King of England, 1167-1216 -- Drama'
+- GITenberg
 title: King John
 url: http://www.gutenberg.org/ebooks/1775
